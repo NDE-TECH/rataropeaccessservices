@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-hidden="true">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2d50"/><stop offset="1" stop-color="#071a2f"/></linearGradient>
+ <radialGradient id="glow" cx="78%" cy="25%" r="60%"><stop offset="0" stop-color="#f1a13e" stop-opacity=".22"/><stop offset="1" stop-color="#f1a13e" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse"><path d="M72 0H0V72" fill="none" stroke="#8ed8f3" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)"/><rect width="1600" height="900" fill="url(#glow)"/>
+<circle cx="1280" cy="140" r="260" fill="#f1a13e" opacity=".06"/><circle cx="210" cy="760" r="310" fill="#f28c28" opacity=".045"/>
+<g transform="translate(440 170)" fill="none" stroke="#eaf7ff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"><path d="M120 410 410 120l120 120-290 290z"/><path d="m385 145 130 130M155 375l120 120" stroke="#f28c28"/><path d="M560 160 820 70M585 235 850 210M560 310 815 360" stroke="#68d1f2"/><circle cx="860" cy="70" r="18" fill="#68d1f2" stroke="none"/><circle cx="900" cy="210" r="14" fill="#68d1f2" stroke="none"/><circle cx="850" cy="365" r="22" fill="#68d1f2" stroke="none"/></g>
+<path d="M0 800C250 745 430 840 710 775s500 30 890-75" fill="none" stroke="#64c7ec" stroke-opacity=".18" stroke-width="4"/>
+</svg>

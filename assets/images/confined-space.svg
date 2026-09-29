@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-hidden="true">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061f3c"/><stop offset="1" stop-color="#0b4f83"/></linearGradient>
+  <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#7bc7ee" stroke-opacity=".11" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)"/>
+<circle cx="1280" cy="180" r="240" fill="#1aa6df" opacity=".07"/><circle cx="230" cy="710" r="310" fill="#f28c28" opacity=".045"/>
+
+<g fill="none" stroke="#dff5ff" stroke-width="10" stroke-linejoin="round">
+ <ellipse cx="780" cy="220" rx="300" ry="120"/><path d="M480 220v410c0 68 134 122 300 122s300-54 300-122V220"/><ellipse cx="780" cy="630" rx="300" ry="122" stroke="#58c4ef"/>
+ <circle cx="780" cy="410" r="112"/><circle cx="780" cy="410" r="62" stroke="#f28c28"/>
+ <path d="M780 298V190M668 410H540M892 410h130M780 522v120"/>
+</g>
+<path d="M0 812 C310 742 560 856 852 778 S1320 754 1600 690" fill="none" stroke="#66c4ed" stroke-opacity=".25" stroke-width="3"/>
+</svg>

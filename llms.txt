@@ -1,0 +1,33 @@
+# IAIS Global Rope Access Services
+
+> Official static website index for IAIS India and IAIS UAE rope access, inspection, NDT, maintenance, safety and industrial access services.
+
+## Primary entities
+- IAIS India: Integrity & Advanced Inspection Solutions India Pvt. Ltd.
+- IAIS UAE: Abu Dhabi, United Arab Emirates operations
+- Official company websites: https://iaisindia.com/ and https://iaisuae.com/
+
+## Website pages
+- [About IAIS India & IAIS UAE | Global Rope Access Services](https://www.irataropeaccessservices.com/about/): Learn how IAIS India and IAIS UAE coordinate global rope access inspection, NDT, maintenance and asset integrity support from Chennai and Abu Dhabi.
+- [Civil & Façade Services | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/civil-facade-rope-access-services/): Close-access inspection and selected repair support for façades, roofs, concrete surfaces and external building components.
+- [Confined Space Support | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/confined-space-rope-access-support/): Rope-based positioning, entry support and retrieval planning for vessels and enclosed structures where the task requires both confined-space and work-at-height controls.
+- [Contact IAIS India & UAE | Request a Rope Access Proposal](https://www.irataropeaccessservices.com/contact/): Contact IAIS operations in India and the UAE for global rope access inspection, NDT, maintenance, offshore, coating, cleaning and rescue support.
+- [Electrical & Instrumentation Support | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/electrical-instrumentation-rope-access/): Rope access support for inspection, routing, installation and replacement of selected electrical and instrumentation components at height.
+- [Global Rope Access Inspection & Maintenance | IAIS India & UAE](https://www.irataropeaccessservices.com/): IAIS supports global rope access inspection, NDT, maintenance and asset integrity projects through coordinated operations in India and the UAE.
+- [Industrial Cleaning | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/industrial-cleaning-rope-access/): Specialist access for cleaning façades, cladding, structures, plant surfaces and selected industrial equipment where conventional access is inefficient.
+- [Industrial Maintenance at Height | Rope Access | IAIS India](https://www.irataropeaccessservices.com/industrial-maintenance-at-height/): Rope access industrial maintenance services for mechanical work, corrosion control, coating, cleaning, installations, E&I support and civil repairs on difficult-to-access assets.
+- [Industries Served | IAIS India Rope Access](https://www.irataropeaccessservices.com/industries-served/): Rope access inspection and maintenance for oil and gas, refining, power, offshore, renewable energy, manufacturing, infrastructure and ports.
+- [Offshore & Marine Rope Access Services | IAIS India](https://www.irataropeaccessservices.com/offshore-marine-rope-access/): Global offshore and marine rope access inspection, NDT and maintenance support for platforms, rigs, FPSO, FSO, vessels, terminals and related structures.
+- [Rope Access NDT Inspection Services | IAIS India](https://www.irataropeaccessservices.com/rope-access-ndt-inspection/): Global rope access NDT inspection services including UTM, UT, PAUT, TOFD, MT, PT, VT, PMI, hardness testing and corrosion mapping for industrial, offshore and marine assets.
+- [Rope Access Rescue & Standby Teams | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/rope-access-rescue-standby/): Dedicated rope access rescue planning, equipment readiness and standby support for work-at-height and selected confined-space activities.
+- [Rope Access Services | Inspection, NDT & Maintenance | IAIS India](https://www.irataropeaccessservices.com/rope-access-services/): Explore IAIS India rope access services for NDT inspection, industrial maintenance, offshore and marine assets, structures, coatings, cleaning, wind energy and rescue support worldwide.
+- [Rope Access Safety, HSE & Rescue Planning | IAIS India](https://www.irataropeaccessservices.com/safety-hse-rescue/): IAIS India rope access safety framework covering risk assessment, supervision, equipment control, dropped-object prevention and rescue readiness.
+- [Structural Inspection | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/structural-inspection-rope-access/): IAIS India provides close visual and measurement-based inspection of elevated steel, concrete and civil structures using planned rope access systems.
+- [Surface Preparation & Protective Coating | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/surface-preparation-protective-coating/): IAIS India supports localized surface preparation, corrosion removal, touch-up painting and protective coating application at elevated and restricted locations.
+- [Tanks, Vessels & Piping Inspection | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/tanks-vessels-piping-inspection/): External condition assessment for tanks, vessels, columns and piping systems at elevated or restricted locations.
+- [Wind Turbine Services | IAIS India Rope Access Services](https://www.irataropeaccessservices.com/wind-turbine-rope-access-services/): IAIS India provides rope access teams for external wind-turbine inspection, cleaning and selected maintenance activities, subject to OEM and client procedures.
+
+## Discovery notes
+- Public pages are indexable.
+- OAI-SearchBot is explicitly allowed in robots.txt for ChatGPT Search discovery.
+- Structured data, canonical URLs, Open Graph images and descriptive alt text are included on public pages.

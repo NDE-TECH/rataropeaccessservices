@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-hidden="true">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061f3c"/><stop offset="1" stop-color="#0b4f83"/></linearGradient>
+  <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#7bc7ee" stroke-opacity=".11" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)"/>
+<circle cx="1280" cy="180" r="240" fill="#1aa6df" opacity=".07"/><circle cx="230" cy="710" r="310" fill="#f28c28" opacity=".045"/>
+
+<g fill="none" stroke="#dff5ff" stroke-width="8" stroke-linejoin="round">
+ <path d="M260 675V210h335v465M260 290h335M260 390h335M260 490h335M260 590h335M345 210v465M510 210v465"/>
+ <path d="M760 670V270l165-80 165 80v400M760 350h330M760 465h330M760 580h330" stroke="#58c4ef"/>
+ <path d="M1210 680V165M1210 250l165 90M1210 330l-160 90M1210 410l165 90M1210 490l-160 90"/>
+</g>
+<path d="M0 812 C310 742 560 856 852 778 S1320 754 1600 690" fill="none" stroke="#66c4ed" stroke-opacity=".25" stroke-width="3"/>
+</svg>

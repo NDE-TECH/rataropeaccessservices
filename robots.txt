@@ -1,0 +1,17 @@
+# IAIS static website crawl policy
+User-agent: *
+Allow: /
+
+# ChatGPT Search discovery
+User-agent: OAI-SearchBot
+Allow: /
+
+# User-initiated ChatGPT page access
+User-agent: ChatGPT-User
+Allow: /
+
+# OpenAI model-training crawler (allowed by site owner for broad discoverability)
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://www.irataropeaccessservices.com/sitemap.xml
